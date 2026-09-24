@@ -8,6 +8,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
+    //Code for revert
     private View RootLayout;
     private TextView MainTextView;
     private Button ChangeTextButton;
