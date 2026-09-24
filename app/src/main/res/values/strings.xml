@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MADT Lab 1</string>
+    <string name="initial_text">Hello World!</string>
+    <string name="changed_text">Button clicked! Text changed.</string>
+    <string name="change_text">Change Text</string>
+    <string name="change_text_color">Change Text Color</string>
+    <string name="change_background">Change Background</string>
+</resources>
